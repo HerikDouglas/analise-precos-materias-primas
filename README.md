@@ -3,7 +3,7 @@
 
 ## Introdução :memo:
 
-Este projeto foi desenvolvido sob a orientação de um professor, tem como objetivo analisar a evolução dos preços de 12 matérias-primas ao longo de 91 anos (1920-2020). O [código Python](https://github.com/HerikDouglas/analise-precos-materias-primas/blob/main/projeto_analise_materia_prima.ipynb) utiliza bibliotecas como Pandas, Matplotlib e Seaborn para explorar os dados, identificar padrões e responder a cinco perguntas específicas.
+Este projeto foi desenvolvido sob a orientação de um professor, tem como objetivo analisar a evolução dos preços de 12 matérias-primas ao longo dos anos de 1920-2020. O [código Python](https://github.com/HerikDouglas/analise-precos-materias-primas/blob/main/projeto_analise_materia_prima.ipynb) utiliza bibliotecas como Pandas, Matplotlib e Seaborn para explorar os dados, identificar padrões e responder a cinco perguntas específicas.
 Este repositório contém os seguintes arquivos:
 * `README.md`:(este arquivo que você está lendo) contém uam descrição do projeto, ferramentas e algumas outras informações;
 * `agricultural_raw_material.csv`: Contém o arquivo CSV com os dados históricos de preços.
